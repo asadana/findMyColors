@@ -1,0 +1,27 @@
+----- Find my Colors! By: Ankit Sadana -----
+
+----- User's Guide -----
+
+Welcome to Find my Colors!
+
+This game is aimed at helping children to identify colors by teaching them with repetition  encompassed in a fun game.
+
+--- How to run the game ---
+
+To run the game, please Start the findMyColor.exe file.
+
+--- How the game progresses ---
+
+The game starts off with a splash screen welcoming you to the game, with a "Let's Play" button.
+
+The game then gives the user four basic colors to learn by scrolling through them one at a time. As soon as the user has gone through all the colors at least once, the "Let's Start" button appears, but the user is allowed to scroll through all the colors as much as he or she wants before beginning the game.
+
+The game presents all four colors randomly in a box formation, and the user is asked to find one of the colors. If the color is guessed right, a smiley face appears letting the user know that he or she guessed correctly, otherwise a sad smiley appears in the middle. 
+
+At any point during this, the user can look at all the colors they have already explored with the "See All Colors Again" button, or leave the game, by pressing "Stop Playing" (a confirmation is asked to make sure it wasn't an accidental button press).
+
+With each correct answer, the progress bar fills up, letting the user know how close he or she is to getting it full and unlocking new colors to play with. Once the progress bar is full, the user is given four new colors to learn and play with like before.
+
+When the progress bar is filled up with the new colors, the user wins the game!
+
+Hope you enjoy the game :)
